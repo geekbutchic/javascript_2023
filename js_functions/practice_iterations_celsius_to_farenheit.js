@@ -1,5 +1,5 @@
 /*
-Problem : 
+Problem 1 : 
 You have an array of temperatures in Celsius, and you want to convert them to Fahrenheit. Write a JavaScript function that takes an array of temperatures in Celsius and returns a new array with the temperatures converted to Fahrenheit.
 */
 
